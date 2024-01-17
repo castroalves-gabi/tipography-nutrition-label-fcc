@@ -3,7 +3,7 @@
 }
 
 html {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
@@ -12,8 +12,8 @@ body {
 
 .label {
   border: 2px solid black;
-  width: 270px;
-  margin: 20px auto;
+  width: 320px;
+  margin: 6% auto;
   padding: 0 7px;
 }
 
